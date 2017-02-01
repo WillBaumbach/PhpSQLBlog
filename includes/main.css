@@ -106,9 +106,8 @@ textarea {
 }
 
 body {
-    background-color:#eeeeee;
+    background-color:#cccccc;
     font-size: 16px;
-    font-color: #000000;
     overflow-x: hidden;
     margin: 0px;
 }
@@ -129,7 +128,7 @@ div {
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #7384a5;
+    background: #34495e;
 }
 
 #blog-wrapper {
@@ -138,6 +137,7 @@ div {
     padding: 20px;
     margin-left: 15px;
     overflow-y: scroll;
+    font-size: 18px;
 
 }
 
@@ -147,10 +147,6 @@ div {
     width: 250px;
     margin: 0;
     padding: 0;
-}
-
-.link a {
-    color: black;
 }
 
 .sidebar-nav li h3 {
@@ -168,6 +164,10 @@ div {
     margin-bottom: 25px;
 }
 
+.sidebar-heading {
+    color:white;
+}
+
 .sidebar-image img {
     display:inline;
 
@@ -181,6 +181,8 @@ div {
 .link a {
     text-decoration: none;
     position: relative;
+    color:white;
+    font-size: 18px;
 }
 
 .sidebar-nav li a {
@@ -190,8 +192,8 @@ div {
 }
 
 .sidebar-nav li a:hover {
-    background: #63769c;
-    color: #262626;
+    background: #486684;
+    color: #d9d9d9;
 }
 
 .post {
