@@ -25,7 +25,7 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-image">
-                    <img src="https://c1.staticflickr.com/1/682/23117960972_04eb40a09f_q.jpg" width="300" height="300" alt="">
+                    <img src="https://lh3.googleusercontent.com/Ojc7HvxTHnUjoQLurv_d_kcLcbiTaaFboT_rhMK-FGpwu_P6y46yJ9BpeZGg3j-pyd37TyZpEgq97PhjowkDVY56jnLiC2OovpOauYc1apeZxWP9raRHEMcnDEQb8ph_yjYOyrzzQpTzpgJLmvu0VjLvsCJAwX7e4k9_zAQNZMsNQ5TfEff-aA-CwIjiFFFrR4fM1zrQ586SljFamBiYohn7kUYLkmojFD7-rioWFCtguyvpgLfzJiHwaSY-46fcZUWqXesx6m1JC5w9ySZgvVmrq8g9o3NOOal5QjOf67Mk3kWE_voo4Yf1JALTN1Nks0i1wTPj8wN2eiMl_x1durihvdR4jCQw-Y9rt6-XOr9zJOOwlNEX-R7LtXBAO7_ktuqKnwBzb-Et_CzGmgJzNAN-1Lxad4zrJqkjZPRtJH-QGdkyU_RZtQura1qE7TKct0VuBQG7EgUSA8-n5U-aIG3EaKemffNI7CnhlGwFx4CwofFgRD961_YtMdNMcAo5aUjSJjtHsqrnnoPRy9b709Ua7tL9kF58soYkWaJnT5E5FZjzoidC0UJQQlCHIxRms2NBgZdR=w1920-h906" width="200" height="200" alt="">
                 </li>
                 <li class="sidebar-heading">
                     <h3>Will Baumbach</h3>
@@ -34,13 +34,13 @@
                     <a href="#">About Me</a>
                 </li>
                 <li class="link">
-                    <a href="#">Twitter</a>
+                    <a href="https://twitter.com/will_baumbach">Twitter</a>
                 </li>
                 <li class="link">
-                    <a href="#">Instagram</a>
+                    <a href="https://www.instagram.com/will_baumbach/">Instagram</a>
                 </li>
                 <li class="link">
-                    <a href="#">Github</a>
+                    <a href="https://github.com/WilliamBaumbach1212">Github</a>
                 </li>
             </ul>
         </div>
@@ -57,11 +57,12 @@
 						echo "<div class='post'>";
 						echo "<h1>" . $post->title . "</h1>";
 						echo "<p>" . $post->post . "</p>";
-						echo "<span class ='footer'>" . $post->author . " --- " . $post->datePosted . "</span>";
+						echo "<div class= 'footer'>" . $post->author . " --- " . $post->datePosted . "</div>";
+                        echo "</div>";
 					}
 					?>
             </div>
-            <!-- End Page Content -->
+        <!-- End Page Content -->
 
         </div>
     </div>

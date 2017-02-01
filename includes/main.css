@@ -14,7 +14,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    font-style: sans-serif;
+    font-style: "Lucida Console";
 }
 
 /*
@@ -101,12 +101,16 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+* {
+    font-family: :"Lucida Console", Lucida, serif;
+}
 
 body {
     background-color:#eeeeee;
     font-size: 16px;
     font-color: #000000;
     overflow-x: hidden;
+    margin: 0px;
 }
 
 div {
@@ -129,10 +133,12 @@ div {
 }
 
 #blog-wrapper {
-    width:100%;
+    width:95%;
     position: relative;
     padding: 20px;
     margin-left: 15px;
+    overflow-y: scroll;
+
 }
 
 .sidebar-nav {
@@ -190,9 +196,12 @@ div {
 
 .post {
     line-height: 30px;
+    padding-top: 0px;
 }
 
-
+.footer {
+    padding-bottom: 20px;
+}
 
 
 
