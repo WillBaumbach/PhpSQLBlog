@@ -1,5 +1,16 @@
 <html class="no-js" lang="">
     <head>
+        <!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-90744290-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- End Google Analytics -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title></title>
@@ -25,13 +36,10 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-image">
-                    <img src="https://lh3.googleusercontent.com/Ojc7HvxTHnUjoQLurv_d_kcLcbiTaaFboT_rhMK-FGpwu_P6y46yJ9BpeZGg3j-pyd37TyZpEgq97PhjowkDVY56jnLiC2OovpOauYc1apeZxWP9raRHEMcnDEQb8ph_yjYOyrzzQpTzpgJLmvu0VjLvsCJAwX7e4k9_zAQNZMsNQ5TfEff-aA-CwIjiFFFrR4fM1zrQ586SljFamBiYohn7kUYLkmojFD7-rioWFCtguyvpgLfzJiHwaSY-46fcZUWqXesx6m1JC5w9ySZgvVmrq8g9o3NOOal5QjOf67Mk3kWE_voo4Yf1JALTN1Nks0i1wTPj8wN2eiMl_x1durihvdR4jCQw-Y9rt6-XOr9zJOOwlNEX-R7LtXBAO7_ktuqKnwBzb-Et_CzGmgJzNAN-1Lxad4zrJqkjZPRtJH-QGdkyU_RZtQura1qE7TKct0VuBQG7EgUSA8-n5U-aIG3EaKemffNI7CnhlGwFx4CwofFgRD961_YtMdNMcAo5aUjSJjtHsqrnnoPRy9b709Ua7tL9kF58soYkWaJnT5E5FZjzoidC0UJQQlCHIxRms2NBgZdR=w1920-h906" width="200" height="200" alt="">
+                    <img src="https://lh3.googleusercontent.com/JjCa712ong6pOddUqepOoXLkaDJwQRWo62tZrjCre5RDsaD3UO3DANbpCV_FS2EWiAO1IXw2qmMcSzVKpFZGnG1KbX5dJ5oA1r8D-IqUeN-oXmlIU7QngFhtj6PJHFGSW5g0koWY6RvwPxbwEQ4-6cAk8h3rij9_cZeIVVDAxFYPAh1KLyMeu4ztTerzysmnnhubXmP9F-63W3xXJzt78RiM8xEOLVx_OP2zdQaoyFfdqN8T932GunbmgC6UjyX-g8Q1gS6tvGQpT3uQPkqWdXB4FZVO1Rqg-SKzB0Imb32wR38dOBxe2VWe4Y8sdzTI04g_LhIkFgptl3LZHmIHZ2ECnqrptjlur5tyHAKmtL2xpBKHeoj-028EsFxQqylehLFVrJ9_znpXiOw8AJu7sWoWr0WD91GOTceHCRvej-pKCWcUxf2THDNBN2jkgeSD_jLGxEGTz5ZUSzotSWEpkXDIyxf_ZAiCPSfbvpN_l_mVydft1xpcd8jQ0xGt4UspM5nJitv8Asqb1C1L2jVOxvBLvwUejo3kMc8vBtxdEbPX4jxKBdizFL8EKUQBmawwe69FjTO-=w1920-h902" width="200" height="200" alt="">
                 </li>
                 <li class="sidebar-heading">
                     <h3>Will Baumbach</h3>
-                </li>
-                <li class="link">
-                    <a href="#">About Me</a>
                 </li>
                 <li class="link">
                     <a href="https://twitter.com/will_baumbach">Twitter</a>
