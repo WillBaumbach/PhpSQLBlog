@@ -24,13 +24,11 @@ function __construct($inId=null, $inTitle=null, $inPost=null, $inAuthorId=null, 
     {
         $this->post = $inPost;
     }
- 
     if (!empty($inDatePosted))
     {
         $splitDate = explode("-", $inDatePosted);
         $this->datePosted = $splitDate[1] . "/" . $splitDate[2] . "/" . $splitDate[0];
     }
- 
     if (!empty($inAuthorId))
     {
         $query = mysql_query("SELECT first_name, last_name FROM people WHERE id = " . $inAuthorId);

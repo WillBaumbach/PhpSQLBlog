@@ -5,7 +5,7 @@ $connection = mysql_connect('localhost', 'williamj', 'Wb116515?') or die ("<p cl
 $database = "williamj_blog";
 mysql_select_db($database, $connection) or die ("<p class='error'>Sorry, we were unable to connect to the database.</p>");
  
-function GetBlogPosts($inId=null, $inTagId =null)
+function GetBlogPosts($inId=null, $inTagId=null)
 {
     if (!empty($inId))
     {
@@ -23,7 +23,7 @@ function GetBlogPosts($inId=null, $inTagId =null)
     $postArray = array();
     while ($row = mysql_fetch_assoc($query))
     {
-        $myPost = new BlogPost($row["id"], $row['title'], $row['post'], $row["author_id"], $row['dateposted']);
+        $myPost = new BlogPost($row["id"], $row['title'], $row['post'], $row["author_id"], $row['date_posted']);
         array_push($postArray, $myPost);
     }
     return $postArray;
