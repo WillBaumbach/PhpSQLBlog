@@ -9,5 +9,5 @@ TO-DO:
 - Add splash play screen to brick break
 
 - Fix scrolling by making the sidebar always stationary.
-    FIXED: Changed the backgrounds so the navbar wouldn't get that "bouncing" effect on scrolling
+    - FIXED: Changed the backgrounds so the navbar wouldn't get that "bouncing" effect on scrolling
 
