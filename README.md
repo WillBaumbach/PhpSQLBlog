@@ -1,7 +1,7 @@
 # PhpSQLBlog
-Another iteration of my blog site, this time using PHP and SQL to manage posts.
+Files for my blog website
 
-TO-DO:
+# TO-DO:
 - Look at bootstrap and try to implement columned layout
 - Add projects page
   - Implement PHP to add posts from database?
