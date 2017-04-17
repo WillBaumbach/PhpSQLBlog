@@ -8,6 +8,7 @@ TO-DO:
 - Add resume
 - Add splash play screen to brick break
 
+# Fixed or Implements Changes
 - Fix scrolling by making the sidebar always stationary.
     - FIXED: Changed the backgrounds so the navbar wouldn't get that "bouncing" effect on scrolling
 
