@@ -69,13 +69,11 @@
         <!-- End Sidebar Navigation -->
         
         <!-- Page Content -->
-        <div id="gallery-wrapper">
-            <div id="gallery">
-                <div id="gallery-column1">
-                </div>
-                <div id = gallery-column2>
-                </div>
-            </div>
+        <div class="jumbotron">
+  			<h1>There's nothing here yet!</h1>
+  				<p>Check back in the near future</p>
+  				<p><a class="btn btn-primary btn-lg" href="/public_html/index.php" role="button">Return Home</a></p>
+		</div>
         <!-- End Page Content -->
 
         </div>
