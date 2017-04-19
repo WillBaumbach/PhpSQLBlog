@@ -49,7 +49,7 @@
 		        <a href="https://github.com/WilliamBaumbach1212">Github</a>
 		    </li>
 		    <li role="presentation" stlye='margin-bottom: 5px;'>
-		        <a href="/cc.williamjbaumbach.com/BrickBreaker.html">Brick Break</a>
+		        <a href="BrickBreaker.html">Brick Break</a>
 		    </li>
 		</ul>
         </div>
