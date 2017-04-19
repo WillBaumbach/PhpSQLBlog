@@ -32,10 +32,10 @@
 		    <li role="presentation">
 		        <a href="index.php">Home</a>
 		    </li>
-		    <li role="presentation">
+		    <li role="presentation" class="active col-s-4">
 		        <a href="my_resume.php">My Resume</a>
 		    </li>
-		    <li role="presentation" class="active col-s-4">
+		    <li role="presentation" >
 		        <a href="my_projects.php">My Projects</a>
 		    </li>
 		
