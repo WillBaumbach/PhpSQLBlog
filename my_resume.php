@@ -7,7 +7,7 @@
         
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Test Update</title>
+        <title>My Resume</title>
         <meta name="description" content="Test for this site">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,9 +56,11 @@
        <!--Start Page Content-->
         <div class="col-md-8 col-sm-8" style='margin-top: 10px;'>
             <div class="jumbotron">
-                <h1>Theres nothing here yet!</h1>
-  				<p>Check back in the near future</p>
-  				<p><a class="btn btn-primary btn-lg" href="index.php" role="button">Return Home</a></p>
+                <h1>My Resume</h1></br>
+                <p>You can either download the file directly as a .pdf, or open it in browser, using the links below:</p>
+  				<p><a class="btn btn-primary btn-lg" href="files/WilliamBaumbachResume.pdf" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true" style="margin-right: 10px;"></span>Download</a></p>
+                <p><a class="btn btn-primary btn-lg" href="files/WilliamBaumbachResume.pdf" role="button">Open in Browser</a></p>
+                <p style="font-size: 14;">(Note: Direct download not currently supported for safari browsers)</p>
             </div>
         </div>
         <!--End Page Content-->

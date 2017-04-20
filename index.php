@@ -7,7 +7,7 @@
         
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Test Update</title>
+        <title>Home</title>
         <meta name="description" content="Test for this site">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +26,7 @@
     <div class="container-fluid" style='background: #B4D6E6'>
         <!--Sidebar Navigation-->
         <div class = "row">
-	    <div class="col-md-2 col-sm-4">
+	    <div class="col-md-2 col-sm-4 ">
 	    	<img src="https://lh3.googleusercontent.com/JjCa712ong6pOddUqepOoXLkaDJwQRWo62tZrjCre5RDsaD3UO3DANbpCV_FS2EWiAO1IXw2qmMcSzVKpFZGnG1KbX5dJ5oA1r8D-IqUeN-oXmlIU7QngFhtj6PJHFGSW5g0koWY6RvwPxbwEQ4-6cAk8h3rij9_cZeIVVDAxFYPAh1KLyMeu4ztTerzysmnnhubXmP9F-63W3xXJzt78RiM8xEOLVx_OP2zdQaoyFfdqN8T932GunbmgC6UjyX-g8Q1gS6tvGQpT3uQPkqWdXB4FZVO1Rqg-SKzB0Imb32wR38dOBxe2VWe4Y8sdzTI04g_LhIkFgptl3LZHmIHZ2ECnqrptjlur5tyHAKmtL2xpBKHeoj-028EsFxQqylehLFVrJ9_znpXiOw8AJu7sWoWr0WD91GOTceHCRvej-pKCWcUxf2THDNBN2jkgeSD_jLGxEGTz5ZUSzotSWEpkXDIyxf_ZAiCPSfbvpN_l_mVydft1xpcd8jQ0xGt4UspM5nJitv8Asqb1C1L2jVOxvBLvwUejo3kMc8vBtxdEbPX4jxKBdizFL8EKUQBmawwe69FjTO-=w1920-h902" class="img-responsive" style='margin: 15px 0px; padding: 20px 30px;'>
 		<ul class="nav nav-pills nav-stacked">
 		    <li role="presentation" class="active col-s-4">
