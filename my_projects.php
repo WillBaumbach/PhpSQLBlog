@@ -1,10 +1,10 @@
 <html class="no-js" lang="">
     <head>
-    
+
         <!-- Bootstrap Stylesheet-->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <!-- End Bootstrap Stylesheet-->
-        
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>My Projects</title>
@@ -38,7 +38,7 @@
 		    <li role="presentation" class="active col-s-4">
 		        <a href="my_projects.php">My Projects</a>
 		    </li>
-		
+
 		    <li role="presentation">
 		        <a href="https://twitter.com/will_baumbach">Twitter</a>
 		    </li>
@@ -54,12 +54,33 @@
 		</ul>
         </div>
        <!--Start Page Content-->
-        <div class="col-md-8 col-sm-8" style='margin-top: 10px;'>
-            <div class="jumbotron">
-                <h1>Theres nothing here yet!</h1>
-  				<p>Check back in the near future</p>
-  				<p><a class="btn btn-primary btn-lg" href="index.php" role="button">Return Home</a></p>
-            </div>
+        <div class="col-md-8 col-sm-10" style='margin-top: 10px;'>
+          <div class="row">
+              <div class="col-lg-12">
+                  <h1 class="page-header">My Projects</h1>
+              </div>
+
+              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                  <div class="thumbnail">
+                      <a href="#">
+                        <img src="/Photos/Pong.png" style="width: 100%">
+                      </a>
+                      <div class="caption">
+                          <h4>Pong</h4>
+                          <p>A simple pong game I made in Python using Pygame.</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                  <div class="thumbnail">
+                      <img src="http://via.placeholder.com/400x300" style="width: 100%">
+                      <div class="caption">
+                          <h4>Test</h4>
+                          <p>test</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
         </div>
         <!--End Page Content-->
         </div>
